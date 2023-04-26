@@ -1,0 +1,5 @@
+{
+"storeHouse": [
+{"sourceName":"主仓","sourceUrl":"http://tvmvip110.club/xcdc.txt"},
+{"sourceName":"网络备用仓","sourceUrl":"http://tvmvip110.club/xcdc3.txt"}
+]}

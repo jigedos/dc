@@ -1,0 +1,20 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "⌛4月11日⌛日后服务器",
+            "sourceUrl": "http://rihou.cc/日后多仓/3.php"
+        },
+        {
+            "sourceName": "⌛4月11日⌛网络收集仓",
+            "sourceUrl": "http://rihou.cc/日后多仓/2.php"
+        },
+        {
+            "sourceName": "⌛4月11日⌛备用服务器",
+            "sourceUrl": "http://rihou.cc/日后多仓/0.php"
+        },
+        {
+            "sourceName": "⌛4月11日⌛日后本地仓",
+            "sourceUrl": "http://rihou.cc/日后多仓/1.php"
+        }
+    ]
+}
