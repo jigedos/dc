@@ -1,0 +1,40 @@
+{
+    "urls": [
+{ "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&xl=4","name": "🇨🇳派大星🇨🇳 04-24  整理" },
+{ "url": "https://0a.fit/X000", "name": "X000内置" },
+{ "url": "https://0a.fit/自用", "name": "自用" }, 
+{ "url": "http://s.nxw.so/vip", "name": "🍑凯速/2863'" }, 
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt", "name": "🌈佰欣园" }, 
+{ "url": "https://神器每日推送.tk/pz.json", "name": "神器" }, 
+ 
+{ "url": "http://刚刚.live/猫", "name": "刚刚走过" }, 
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt", "name": "🎁伍佰园" },
+
+{"url": "https://freetvbox.ml/api/qy.txt", "name": "晴园"},
+
+
+{ "url": "http://home.jundie.top:81/TVBox/yosakoi.json", "name": "🍒军碟" }, 
+{ "url": "https://raw.liucn.cc/box/m.json", "name": "🍍Lucky/liuc" }, 
+
+{ "url": "https://dxawi.github.io/0/0.json", "name": "🥦dxawi/github" },
+{ "url": "https://agit.ai/n/b/raw/branch/a/b/c.json", "name": "🍅agit/branch" }, 
+{ "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json", "name": "🍆CH猫友'" },
+
+
+{ "url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json", "name": "🌽PinkBird/github" },
+
+{ "url": "http://xn--4bra.live/%E7%8C%AB", "name": "4K" }, 
+
+
+  {         "url": "https://6dlj.cn/tang3",         "name": "💎唐三线路"     },   
+  {         "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",         "name": "💎佰欣园线路"     }, 
+
+  {        "url":"https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",        "name":"💎PinkBird线路"     },  
+
+  {         "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",         "name": "💎zzz1线路"     },  
+
+  {         "url": "http://www.dmtv.ml/mao/single.json",         "name": "💎乱世线路"     }
+  ]
+   
+}
