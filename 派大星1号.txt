@@ -12,17 +12,7 @@
         "name": "💓爬虫线路💓 ",
         "time": "主线路"
     },
-  {
-        "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=all&xl=&jar=all",
-        "name": "💓阿里线路💓 ",
-        "time": "主线路"
-    },
-  
- {
-        "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=js&xl=&jar=js",
-        "name": "💛js线路💛",
-        "time": "主线路"
-    },
+
      {
         "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&jar=XBiu&mz=XBiu&xl=",
         "name": "🖤XBiu+XYQ线路🖤",
