@@ -1,6 +1,6 @@
 {
-"urls": [
-{
+  "urls": [
+    {
       "url": "https://www.agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
       "name": "小苹果"
     },
@@ -168,37 +168,37 @@
       "name": "太阳 56",
       "url": "http://miaotvs.cn/osc"
     },
-    {  "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+    {
+      "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
       "name": "云星家庭版 48"
-    
     },
-    {   "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+    {
+      "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
       "name": "云星哔哩 37"
-   
     },
-    {   "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
-      "name": "云星阿里 20",
-   
+    {
+      "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+      "name": "云星阿里 20"
     },
-    {    "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/%e6%95%99%e8%82%b2%ef%b9%a0%e6%95%99%e7%a8%8b.txt",
+    {
+      "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/%e6%95%99%e8%82%b2%ef%b9%a0%e6%95%99%e7%a8%8b.txt",
       "name": "🍚学习教育课堂 18"
-  
     },
-    {   "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/%e4%bd%93%e8%82%b2%ef%b9%a0%e7%9b%b4%e6%92%ad.txt",
+    {
+      "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/%e4%bd%93%e8%82%b2%ef%b9%a0%e7%9b%b4%e6%92%ad.txt",
       "name": "🏀体育直播 10"
-   
     },
-    {  "url": "https://agit.ai/376242575/zzh/raw/branch/master/%e4%bc%91%e9%97%b2%e7%bb%bc%e8%89%ba.txt",
+    {
+      "url": "https://agit.ai/376242575/zzh/raw/branch/master/%e4%bc%91%e9%97%b2%e7%bb%bc%e8%89%ba.txt",
       "name": "🎮休闲戏曲娱乐 9"
-    
     },
-    {  "url": "https://agit.ai/376242575/zzh/raw/branch/master/美食.txt",
+    {
+      "url": "https://agit.ai/376242575/zzh/raw/branch/master/美食.txt",
       "name": "🍭美食大全 4"
-    
     },
-    {      "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
+    {
+      "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
       "name": "🌹花花世界 104"
-
     },
     {
       "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
@@ -231,15 +231,14 @@
     {
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
       "name": "线路8（南风）"
- }
-]
-}
+    },
+    {
       "url": "https://download.kstore.space/download/2904/258.txt",
-      "name": "微信公众号"
+      "name": "258"
     },
     {
       "url": "https://download.kstore.space/download/2904/369.txt",
-      "name": "奇奇乐分享"
+      "name": "255"
     }
   ]
 }
