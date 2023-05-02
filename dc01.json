@@ -12,45 +12,33 @@
       "url": "https://yydsys.top/duo",
       "name": "大聪明"
     },
-    {
-      "url": "http://饭太硬.ga/tv",
-      "name": "饭太硬"
-    },
+
     {
       "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
       "name": "云星"
     },
+
     {
-      "url": "https://hutool.ml/tang",
-      "name": "唐三"
-    },
-    {
-      "url": "https://tv.5ye.cc",
-      "name": "2ha.cc"
+      "url": "https://codeberg.org/jgfx/box1/raw/branch/main/2ha.json",
+      "name": "2哈"
     },
     {
       "url": "https://www.agit.ai/relax/adcc/raw/branch/master/tvbox.json",
       "name": "巧技"
     },
-    {
-      "url": "https://pastebin.com/raw/5NHaxyGR",
-      "name": "道长"
-    },
+
     {
       "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
       "name": "肥猫"
     },
-    {
-      "url": "http://drpy.site/js1",
-      "name": "小雅js"
-    },
+
     {
       "url": "https://tvbox.cainisi.cf",
       "name": "菜妮丝xBPQ"
     },
     {
-      "url": "http://home.jundie.top:81/top98.json",
-      "name": "俊于"
+      "url": "https://codeberg.org/jgfx/box1/raw/branch/main/m.json",
+      "name": "纯净"
     },
     {
       "url": "https://www.agit.ai/liucn/box/raw/branch/main/m.json",
@@ -96,22 +84,7 @@
       "url": "https://agit.ai/laozou/xiaoH/raw/branch/main/0.json",
       "name": "xiaoH"
     },
-    {
-      "url": "https://agit.ai/laozou/xiaoH/raw/branch/main/mf.json",
-      "name": "xiaoHX"
-    },
-    {
-      "url": "https://jihulab.com/xiaohutx/box/-/raw/main/mf.json",
-      "name": "蜜蜂"
-    },
-    {
-      "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-      "name": "分享者"
-    },
-    {
-      "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/js.json",
-      "name": "流云"
-    },
+
     {
       "url": "https://codeberg.org/jgfx/c120487/raw/branch/main/longmen.json",
       "name": "龙门"
@@ -157,6 +130,11 @@
     {
       "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
       "name": "🌹花花世界 104"
+    },
+      
+    {
+      "url": "https://raw.iqiq.io/gaotianliuyun/gao/master/js.json",
+      "name": "流云"
     },
     {
       "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
