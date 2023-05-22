@@ -19,16 +19,7 @@
             "quickSearch": 0,
             "filterable": 1
         },
-        {
-            "key": "360_spider",
-            "name": "🥎360影视官方",
-            "api": "csp_SP360",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": ""
-        },
+       
         {
             "key": "drpy_js_酷云七七1",
             "name": "🍎备份源一",
@@ -38,64 +29,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_Xinsj",
-            "name": "🍎备份源二",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-        },
-        {
-            "key": "快看",
-            "name": "🍎备份源三",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_YQKAPP",
-            "name": "🍎备份源四",
-            "type": 3,
-            "api": "csp_YQKAPP",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://api-aws.11ty.top"
-        },
-        {
-            "key": "csp_AppTT",
-            "name": "🍎备份源五",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.6080dy3.com"
-        },
-        {
-            "key": "csp_XBPQ_饭团",
-            "name": "🍎备份源六",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/饭团HD.json"
-        },
-        {
-            "key": "csp_Yj1211",
-            "name": "👑直播合集",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+      
         {
             "key": "T4直播转点播",
             "name": "📺︎电视点播",
@@ -105,16 +39,7 @@
             "quickSearch": 0,
             "filterable": 1
         },
-        {
-            "key": "csp_Nmys",
-            "name": "👨‍🌾农民影视",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://m35.grelighting.cn/html/box/json/Nmys.json"
-        },
+
         {
             "key": "量子资源",
             "name": "🥑量子资源",
@@ -140,16 +65,7 @@
                 "喜剧片"
             ]
         },
-        {
-            "key": "csp_555电影",
-            "name": "🐾三五电影",
-            "type": 3,
-            "api": "csp_Ys555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.555dyy1.com"
-        },
+
         {
             "key": "低端",
             "name": "🐞低端影视",
@@ -160,25 +76,7 @@
             "searchable": 1,
             "click": "ddys.tv;#vjsp > button"
         },
-        {
-            "key": "csp_363",
-            "name": "☀️大明影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://lzrjk.hao363.com/api.php/v1.vod"
-        },
-        {
-            "key": "csp_AppMr",
-            "name": "🦍二明影视",
-            "type": 3,
-            "api": "csp_AppMr",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
         {
             "key": "17kan",
             "name": "⚽🏀球赛1",
@@ -209,16 +107,7 @@
             "filterable": 1,
             "ext": "http://m35.grelighting.cn/html/box/json/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"
         },
-        {
-            "key": "js_B站精简",
-            "name": "🅱️┃哔哩┃精简",
-            "type": 3,
-            "api": "http://m35.grelighting.cn/html/box/js/drpymin.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://m35.grelighting.cn/html/box/js/B站精简.js"
-        },
+
         {
             "key": "音乐",
             "name": "🎤音乐现场",
@@ -289,154 +178,8 @@
             "filterable": 1,
             "ext": "http://m35.grelighting.cn/html/box/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"
         },
-        {
-            "key": "csp_Bd",
-            "name": "📯哔嘀影视",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "追剧喵",
-            "name": "🐱追剧喵",
-            "type": 3,
-            "api": "csp_ZJMiao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_LibVio",
-            "name": "🍒LibVio",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "csp_Auete",
-            "name": "🐼Auete",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Bttoo",
-            "name": "✌两个BT",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Jianying",
-            "name": "🌟简影",
-            "api": "csp_JianYing",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoxNDg0MywiQ3JlYXRlZEF0IjoiMjAyMi0wNC0xMlQxMDoxMjowNi4wMjQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTA1VDEwOjQ5OjMwLjU4NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjE2OTM1MTE4NkBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJjYzI0NWM4NS1jMjc1LTRhMmYtYmI5MC02ZWYxODg5ZDA4YzQiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo0OTozMC41ODQrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYyOTkxNTA1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.D5bWERTTmTREF3H7lOGxwq9Ec8ou82909YpqO2PJqg4"
-        },
-        {
-            "key": "csp_剧荒",
-            "name": "👿剧荒",
-            "type": 3,
-            "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_XYQHiker_氢视频",
-            "name": "🌑氢视频",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E6%B0%A2%E8%A7%86%E9%A2%91.json"
-        },
-        {
-            "key": "csp_biubiu_完美看看",
-            "name": "💯完美看看",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E5%AE%8C%E7%BE%8E%E7%9C%8B%E7%9C%8B.json"
-        },
-        {
-            "key": "mjxq_spider",
-            "name": "🌏美剧星球",
-            "type": 3,
-            "api": "csp_Mjxq",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Tkys",
-            "name": "🌝天空影院",
-            "type": 3,
-            "api": "csp_Tkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_dd5555",
-            "name": "🍅555 影视",
-            "api": "csp_Dy555",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
-        {
-            "key": "Nfyun",
-            "name": "🌦Nf云",
-            "type": 3,
-            "api": "csp_Nfyun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "csp_Anime1",
-            "name": "🌸动漫",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "3EDY",
-            "name": "🌴3EDY(EXO)",
-            "type": 3,
-            "api": "csp_EEEDY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Yj1211",
-            "name": "📸直播合集",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+     
+       
         {
             "key": "csp_BBB",
             "name": "🅱️哔哩哔哩",
@@ -537,128 +280,7 @@
             "filterable": 0,
             "ext": "http://m35.grelighting.cn/html/box/json/%E6%96%97%E9%B1%BC.json"
         },
-        {
-            "key": "csp_QQ",
-            "name": "🐧腾讯（官）",
-            "type": 3,
-            "api": "csp_QQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_MGTV",
-            "name": "🥭芒果（官）",
-            "type": 3,
-            "api": "csp_MGTV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_IQIYI",
-            "name": "🥝爱奇艺（官）",
-            "type": 3,
-            "api": "csp_IQIYI",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "youku",
-            "name": "👑优酷（官）",
-            "type": 0,
-            "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "categories": [
-                "综艺",
-                "动漫",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "国产剧",
-                "港台剧",
-                "日韩剧",
-                "欧美剧",
-                "惊悚片",
-                "犯罪片",
-                "冒险片",
-                "悬疑片",
-                "动画片",
-                "武侠片",
-                "奇幻片",
-                "少儿",
-                "其他片"
-            ]
-        },
-        {
-            "key": "PpTV",
-            "name": "📺PPTV（官）",
-            "type": 0,
-            "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "categories": [
-                "综艺",
-                "动漫",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "国产剧",
-                "港台剧",
-                "日韩剧",
-                "欧美剧",
-                "惊悚片",
-                "犯罪片",
-                "冒险片",
-                "悬疑片",
-                "动画片",
-                "武侠片",
-                "少儿",
-                "其他片"
-            ]
-        },
-        {
-            "key": "csp_biubiu_厂长资源-蓝光",
-            "name": "🏗️厂长蓝光",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E5%8E%82%E9%95%BF%E8%93%9D%E5%85%89.json"
-        },
-        {
-            "key": "csp_biubiu_555电影",
-            "name": "🍅555 电影",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/555%E7%94%B5%E5%BD%B1.json"
-        },
-        {
-            "key": "花猫影视",
-            "name": "🐱花猫影视",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
-        },
+     
         {
             "key": "云播看看",
             "name": "🌨云播看看",
@@ -669,16 +291,7 @@
             "filterable": 0,
             "ext": "http://m35.grelighting.cn/html/box/json/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"
         },
-        {
-            "key": "比特影视",
-            "name": "💰比特影视",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E6%AF%94%E7%89%B9%E5%BD%B1%E8%A7%86.json"
-        },
+       
         {
             "key": "看看影视",
             "name": "👓看看影视",
@@ -689,116 +302,7 @@
             "filterable": 0,
             "ext": "http://m35.grelighting.cn/html/box/json/%E7%9C%8B%E7%9C%8B%E5%BD%B1%E8%A7%86.json"
         },
-        {
-            "key": "小强影迷",
-            "name": "🐲小强影迷",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E5%B0%8F%E5%BC%BA%E5%BD%B1%E8%BF%B7.json"
-        },
-        {
-            "key": "超清影视",
-            "name": "🖥超清影视",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E8%B6%85%E6%B8%85%E5%BD%B1%E8%A7%86.json"
-        },
-        {
-            "key": "乌龟影院",
-            "name": "🐢乌龟影院",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E4%B9%8C%E9%BE%9F%E5%BD%B1%E9%99%A2.json"
-        },
-        {
-            "key": "人人影视",
-            "name": "👫人人影视",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"
-        },
-        {
-            "key": "豆角影视",
-            "name": "🎋豆角影视",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E8%B1%86%E8%A7%92%E5%BD%B1%E8%A7%86.json"
-        },
-        {
-            "key": "三九影视",
-            "name": "🐐三九影视",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"
-        },
-        {
-            "key": "六度影视",
-            "name": "🍨六度影视",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E5%85%AD%E5%BA%A6%E5%BD%B1%E8%A7%86.json"
-        },
-        {
-            "key": "口袋影院",
-            "name": "👝口袋影院",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
-        },
-        {
-            "key": "不卡影院",
-            "name": "🏅不卡影院",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E4%B8%8D%E5%8D%A1%E5%BD%B1%E9%99%A2.json"
-        },
-        {
-            "key": "干饭影视",
-            "name": "🍚干饭影视",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E5%B9%B2%E9%A5%AD%E5%BD%B1%E8%A7%86.json"
-        },
-        {
-            "key": "霸气影院",
-            "name": "🦁霸气影院",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://m35.grelighting.cn/html/box/json/%E9%9C%B8%E6%B0%94%E5%BD%B1%E9%99%A2.json"
-        },
+        
         {
             "key": "利奥影院",
             "name": "🍪利奥影院",
@@ -821,7 +325,7 @@
         },
         {
             "key": "极品影视",
-            "name": "💝极品影视",
+            "name": "💝极品影视000",
             "type": 3,
             "api": "csp_XPathMac",
             "searchable": 1,
