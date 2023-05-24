@@ -1,6 +1,6 @@
 {"spider":"https://ghproxy.net/https://raw.githubusercontent.com/zhanghong1983/dr_py/main/js/SP.jar",
  "sites":[
-{"key":"drpy_js_豆瓣","name":"豆瓣 [搜索]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
+{"key":"drpy_js_豆瓣","name":"公众号：[放学回家看电视]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
 
 
 //{"key":"drpy_js_360影视","name":"360 [官源]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"},
